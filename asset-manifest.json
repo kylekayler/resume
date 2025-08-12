@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kylekayler/resume.git/static/css/main.e6c13ad2.css",
+    "main.js": "/kylekayler/resume.git/static/js/main.f88da32d.js",
+    "static/js/453.bedb4497.chunk.js": "/kylekayler/resume.git/static/js/453.bedb4497.chunk.js",
+    "index.html": "/kylekayler/resume.git/index.html",
+    "main.e6c13ad2.css.map": "/kylekayler/resume.git/static/css/main.e6c13ad2.css.map",
+    "main.f88da32d.js.map": "/kylekayler/resume.git/static/js/main.f88da32d.js.map",
+    "453.bedb4497.chunk.js.map": "/kylekayler/resume.git/static/js/453.bedb4497.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f88da32d.js"
+  ]
+}
